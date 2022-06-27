@@ -1,0 +1,14 @@
+
+public class TestaCaixa {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Caixa caixa = new Caixa();
+		caixa.setAltura(2);
+		caixa.setLargura(3);
+		caixa.setProfundidade(5);
+		caixa.cabeDentro(3);
+	}
+
+}
